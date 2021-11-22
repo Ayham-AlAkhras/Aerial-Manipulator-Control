@@ -1,6 +1,6 @@
 # Aerial-Manipulator-Control
 
-These codes were developed by my team and I for our proprietary aerial manipulator. The codes were programmed in C for Arduino and produced results that verified our design.
+This code was developed by me, with help from my team, for a proprietary aerial manipulator. The codes were programmed in C for Arduino and produced results that verified our design.
 
 Two microcontrollers linked via I2C were used for the setup. This was done to address incompatability between the PID control of the counter-balance system and the manipulator control.
 
